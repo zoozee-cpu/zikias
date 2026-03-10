@@ -5,8 +5,8 @@
 export const PRODUCTS = [
   {
     id: 1,
-    name: 'Illusion Noir',
-    family: 'woody',
+    name: 'Sauvage',
+    family: 'fresh',
     mood: 'mysterious',
     occasion: 'evening',
     intensity: 'intense',
